@@ -1,1 +1,1 @@
-# .github
+# Headstarter Team
